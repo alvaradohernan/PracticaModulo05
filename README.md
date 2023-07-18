@@ -1,2 +1,5 @@
 # PracticaModulo05
-- Incluye diccionario de datos y diagrama de modelo relacional (archivo pdf).
+Incluye: 
+- Base de datos en formato .tar
+- Diccionario de datos.
+- Diagrama de modelo relacional en formato .pdf
